@@ -1,3 +1,7 @@
 # git-tutorial-basic
 Tutorial basico de Git para IoT
-Hola mundo raro jejej
+
+
+Este es el archivo del repositorio. Haciendo uso del nano desde ubuntu.
+
+
